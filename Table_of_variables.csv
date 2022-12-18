@@ -1,0 +1,14 @@
+﻿Variable,Description,R Classification ,Changed To
+Data as of,Date of analysis,Character ,Factor 
+Start date,First week of data collection period,Character ,Factor 
+End date,Last week of data collection period,Character ,Factor 
+State,Jurisdiction of occurrence,Character ,Factor 
+Sex,Sex,Character ,Factor 
+Age Group,Age group ,Character ,Factor 
+Covid-19 Deaths,Deaths including COVID-19,Integer,Unchnaged
+Total Deaths,Deaths from all causes of death,Integer,Unchnaged
+Pneumonia Deaths,Pneumonia Deaths,Integer,Unchnaged
+Pneumonia and Covid-19 Deaths,Deaths with Pneumonia and COVID-19,Integer,Unchnaged
+Influenza Deaths,Influenza deaths,Integer,Unchnaged
+Pneumonia Influenza or Covid-19 Death,"Deaths with Pneumonia, influenza or COVID-19",Integer,Unchnaged
+Footnotes,Notes,Character ,Unchnaged
