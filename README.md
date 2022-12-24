@@ -196,7 +196,7 @@ UT_MA_Influenza =  821.5 + 1.5*(IQR(Ma_Influenza))
 
 Each graph indicates the death counts for COVID-19, Pneumonia or
 Influenza within various age groups for both males and females within
-the United States, including: `<br>`{=html}
+the United States, including: 
 
 Under 1 year 
 1-4 years 
